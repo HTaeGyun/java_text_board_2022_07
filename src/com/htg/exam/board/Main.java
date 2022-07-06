@@ -30,3 +30,4 @@ public class Main {
 
   }
 }
+  //git commit -m "exit 명령이 나올 때 까지 계속 입력받기"
